@@ -8,7 +8,15 @@ My strengths include the fact, that I'm a fast learner, self-disciplined and sel
 aluxzzqwerty - Discord
 
 ### Skills
-Java, Javascript, HTML, CSS, Maven, Git, Jenkins, Selenium, Agile, Scrum, Typescript, Jira, React, Redux, axios, TestNG, SCSS/SASS, XML, JSON
+* Java 
+* Javascript
+* HTML
+* CSS (SCSS/SASS, BEM)
+* Maven, Git, Jenkins, Selenium, Jira, TestNG
+* Agile, Scrum
+* Typescript
+* React, Redux, axios
+* XML, JSON
 
 ### Code example
 ```
@@ -28,10 +36,10 @@ let longestCommonPrefix = function(strs) {
 };
 ```
 
-### Work experince
-[articles-crud](https://github.com/aluxzzqwerty/articles-crud)
-[blog-app](https://github.com/aluxzzqwerty/blog-app)
-[video-search](https://github.com/aluxzzqwerty/video-search)
+### Work experince (projects)
+* [articles-crud](https://github.com/aluxzzqwerty/articles-crud)
+* [blog-app](https://github.com/aluxzzqwerty/blog-app)
+* [video-search](https://github.com/aluxzzqwerty/video-search)
 
 
 ### Education
