@@ -35,7 +35,6 @@
         let longestCommonPrefix = function(strs) {
             let index = 1;
             let pref = strs[0];
-        
             while (index &#60; strs.length) {
                 if (!strs[index].startsWith(pref)) {
                     pref = pref.slice(0, -1);
@@ -43,7 +42,6 @@
                     index++;
                 }
             }
-        
             return pref;
         };
     </pre>
